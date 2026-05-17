@@ -1,2 +1,1 @@
-# round-53-csv-parser
-UFC-Harness Round 53: Csv Parser
+# Round 53: Csv Parser\n\n## Spec\nRFC 4180 호환 CSV parser 구현 (escaped quotes, multiline values, custom delimiter).
